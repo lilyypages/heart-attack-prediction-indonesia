@@ -41,7 +41,7 @@ Proyek ini dikembangkan menggunakan Python dengan *library* berikut:
 | :--- | :--- | :--- |
 | **Data Manipulasi** | `pandas`, `numpy` | Pengolahan dan perhitungan data. |
 | **Visualisasi** | `matplotlib`, `seaborn` | Pembuatan plot dan *heatmap* untuk EDA. |
-| **Validasi** | `scikit-learn` (opsional) | Validasi/perbandingan hasil *decision tree* manual. |
+| **Validasi** | `scikit-learn` | Validasi/perbandingan hasil *decision tree* manual. |
 
 ---
 
